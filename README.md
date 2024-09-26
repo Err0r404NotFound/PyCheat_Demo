@@ -15,7 +15,9 @@ Here are 5 free licenses for the application:
 
 Simply enter one of these keys when running the application to activate the free license. If these licenses have already been used, feel free to contact me via Discord to request a new one.
 
-To download the full version, go to RELEASES and download the .EXE (Click the following link): https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0
+To download the full version, go to RELEASES and download the .EXE (Click the following link):
+
+https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0.0
 
 Application Description:
 Our application is designed to improve the user experience in solving questionnaires. It offers useful tools for those who may have doubts about a question, allowing access to a wide range of documents that can serve as references. This makes it easier to efficiently search for relevant information. The application allows access to premium content for free, giving users the opportunity to expand their study resources at no additional cost.
