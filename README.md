@@ -3,17 +3,17 @@
 Free Licences 
 Here are 5 free licenses for the application:
 
-        b87d6d7e-9b4c-4b51-a9a6-9225cabc297c ✅
+        License Key:b87d6d7e-9b4c-4b51-a9a6-9225cabc297c ✅
 
-        2b5b090e-6bad-49b6-ae53-0d661f7f5998 ✅
+        License Key:2b5b090e-6bad-49b6-ae53-0d661f7f5998 ✅
 
-        bb8e84b4-353d-4a17-8b2b-2105faa5207b ✅
+        License Key:bb8e84b4-353d-4a17-8b2b-2105faa5207b ✅
 
-        8c4b30b2-479a-4da4-a14f-f2f1758d311b ✅
+        License Key:8c4b30b2-479a-4da4-a14f-f2f1758d311b ✅
 
-        db5cccf0-3348-431b-90f4-f51fdda6ce1b ✅
+        License Key:db5cccf0-3348-431b-90f4-f51fdda6ce1b ✅
 
-Simply enter one of these keys during installation to activate the free license.
+Simply enter one of these keys when running the application to activate the free license. If these licenses have already been used, feel free to contact me via Discord to request a new one.
 
 To download the full version, go to RELEASES and download the .EXE (Click the following link): https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0
 
