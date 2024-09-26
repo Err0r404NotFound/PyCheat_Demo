@@ -1,6 +1,57 @@
 ![image](https://github.com/user-attachments/assets/490efa29-ec27-45d9-89f0-ee5fa3d8f75b)
 
-Para descargar la version completa ir a RELEASES y descargar el .EXE (Entrar al siguiente enlace): https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0
+Free Licences 
+Here are 5 free licenses for the application:
+
+        b87d6d7e-9b4c-4b51-a9a6-9225cabc297c ✅
+
+        2b5b090e-6bad-49b6-ae53-0d661f7f5998 ✅
+
+        bb8e84b4-353d-4a17-8b2b-2105faa5207b ✅
+
+        8c4b30b2-479a-4da4-a14f-f2f1758d311b ✅
+
+        db5cccf0-3348-431b-90f4-f51fdda6ce1b ✅
+
+Simply enter one of these keys during installation to activate the free license.
+
+To download the full version, go to RELEASES and download the .EXE (Click the following link): https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0
+
+Application Description:
+Our application is designed to improve the user experience in solving questionnaires. It offers useful tools for those who may have doubts about a question, allowing access to a wide range of documents that can serve as references. This makes it easier to efficiently search for relevant information. The application allows access to premium content for free, giving users the opportunity to expand their study resources at no additional cost.
+
+The application requires Google Chrome to be installed, as it uses techniques to gather information, meaning no account on the platform is needed. Additionally, a manual mode is included to unlock documents that are otherwise inaccessible.
+
+License:
+To use the application, a license is required, which can be obtained by contacting me through Discord.
+
+Discord Server: https://discord.gg/U2mkF2cY9e
+
+Discord Contact: error404notfound__
+
+EXAMPLES:
+
+![image](https://github.com/user-attachments/assets/26044625-d448-40e9-8db0-c4fe6ef5dae4)
+
+WE CHOOSE THE OPTION AND DOCUMENT TO SEARCH FOR (THIS CAN BE A QUESTION OR THE DOCUMENT NAME DIRECTLY)
+
+![image](https://github.com/user-attachments/assets/64ce522a-92cb-4148-864e-1a34531cf0fa)
+
+If results are found, we can select one of the 10 options
+
+![image](https://github.com/user-attachments/assets/7f7b338f-c559-458a-a5a4-5c23a8f897a3)
+
+ONCE THE DOCUMENT IS SELECTED, IT WILL DO WHAT'S NECESSARY TO ACCESS IT AND OPEN IT
+
+![image](https://github.com/user-attachments/assets/73958f0e-ae57-4e04-8f1d-fc2d38bd0c3f)
+
+ENJOY!!
+
+
+
+Para descargar la version completa ir a RELEASES y descargar el .EXE (Entrar al siguiente enlace): 
+
+https://github.com/Err0r404NotFound/PyCheat_Demo/releases/tag/v1.1.0
 
     Descripción de la Aplicación:
 
