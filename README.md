@@ -30,3 +30,5 @@ Contacto en discord: error404notfound__
 
 DISFRUTA!!
 
+Scribd Free
+Studocu Free
